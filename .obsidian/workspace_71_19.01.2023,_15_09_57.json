@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "43e39bc7d264b354",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce73f266440598df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd16a80b5520b6a8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "89e6b60b611e7c0a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PDFs/verhaegen1992.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d41bbfb0b7eec10",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e1bab545dc03f36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15bceb9fe283c660",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e0bff16a5ea5fbf0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc15840f4b37fdd8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b3b4c1e9620c18f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "aead91255196e96d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4af0ee978d9bde0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ffde19f13c7d3d6a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "65c5d83b0cb35c7d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "db6e6e4e8c41343c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "92142e686afff7d8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "cd16a80b5520b6a8",
+  "lastOpenFiles": [
+    "ResearchStructure/@(verhaegen2007)_Filtering and System Identification_ A Least Squares Approach.md",
+    "ResearchStructure/@(verdult2002)_Nonlinear system identification_ A state-space-approach.md",
+    "PDFs/verhaegen1992.pdf",
+    "PDFs/bittanti2009a.pdf",
+    "ResearchStructure/@(bittanti2009a)_Periodic Systems.md",
+    "ResearchStructure/@(yin2021a)_Subspace Identification of Linear Time-Periodic Systems With Periodic Inputs.md",
+    "PDFs/yin2021a.pdf",
+    "ResearchStructure/@(verhaegen2014)_Subspace Techniques in System Identification.md",
+    "Notes/System Identification (LTI).md",
+    "ResearchStructure/@(thome2016)_Inequalities and equalities for ℓ = 2 (Sylvester), ℓ = 3 (Frobenius), and ℓ _ 3 matrices.md"
+  ]
+}

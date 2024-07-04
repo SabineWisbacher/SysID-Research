@@ -1,0 +1,12 @@
+{
+  "spellcheck": false,
+  "spellcheckDictionary": [
+    "polytope",
+    "DOFs"
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes",
+  "attachmentFolderPath": "Images",
+  "readableLineLength": false,
+  "strictLineBreaks": false
+}

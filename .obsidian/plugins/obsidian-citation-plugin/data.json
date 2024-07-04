@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "@({{citekey}})_{{title}}",
+  "literatureNoteFolder": "PaperSummaries",
+  "literatureNoteContentTemplate": "---\naliases: [{{citekey}}]\n---\n\n### {{authorString}}({{year}})\n\n>Category:\n>[PDF]({{citekey}}.pdf)\n>[Zotero-Link]({{zoteroSelectURI}})\n\n>[!ABSTRACT]-\n>{{abstract}}\n\n---\n\n### Tags:\n\n\n---\n### References:\n\n\n---\n\n",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "SysID.bib"
+}

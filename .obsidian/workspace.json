@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "be005407fdaed28d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b0c03f016d8aff2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cab3316eb98bbb33",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PDFs/verdult2002.pdf"
+              }
+            }
+          },
+          {
+            "id": "08baccd09860130a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PaperSummaries/Subspace ID/@(verdult2002)_Nonlinear system identification_ A state-space-approach.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ef1369b1bd6f18e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/SysID/LTI MOESP Sys-ID.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "16927391ab32a0cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e7e0c7d3cc46cf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6bc4e79902cd607",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c490b75cbae0efe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a9ca3474ec753c15",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 390.5
+  },
+  "right": {
+    "id": "cb9d438c84c7cac0",
+    "type": "split",
+    "children": [
+      {
+        "id": "030a0bf7a9b544d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2eef457bb1bcb8ba",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PDFs/uyanik2019.pdf"
+              }
+            }
+          },
+          {
+            "id": "be471a5a5063492f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PaperSummaries/Subspace ID/@(verdult2002)_Nonlinear system identification_ A state-space-approach.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e86de9b53c1031c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PaperSummaries/Subspace ID/@(verdult2002)_Nonlinear system identification_ A state-space-approach.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f0cf3337f549dc57",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "851c54b4a04d1adb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PaperSummaries/Subspace ID/@(verdult2002)_Nonlinear system identification_ A state-space-approach.md"
+              }
+            }
+          },
+          {
+            "id": "e18da983a427af5c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "08baccd09860130a",
+  "lastOpenFiles": [
+    "PaperSummaries/Subspace ID/@(verhaegen2007)_Filtering and System Identification_ A Least Squares Approach.md",
+    "Notes/SysID/Matlab SysID Toolbox.md",
+    "Notes/Control Basics/LQG Controller.md",
+    "Notes/Control Basics/Representations/Zero Order Hold (ZOH).md",
+    "PaperSummaries/Subspace ID/@(verdult2002)_Nonlinear system identification_ A state-space-approach.md",
+    "Notes/SysID/LTI MOESP Sys-ID.md",
+    "PDFs/verdult2002.pdf",
+    "Notes/Flight Dynamics.md",
+    "Notes/SysID/old - Subspace Identification for LTP Systems.md",
+    "PDFs/verhaegen1995.pdf",
+    "Notes/SysID/LTP Sys-ID.md",
+    "Notes/SysID/LTI Prediction Based Sys-ID.md",
+    "PDFs/qin2006.pdf",
+    "PDFs/verhaegen2007.pdf",
+    "PDFs/padfield2018.pdf",
+    "PDFs/pfifer2016.pdf",
+    "Notes/Control Basics/Representations/Representation of LTP Systems.md",
+    "PDFs/bergmann2009.pdf",
+    "Notes/Control Basics/Representations/Representation of LTI Systems.md",
+    "Notes/Control Basics/Control Schemes.md",
+    "PaperSummaries/HelicopterSpecific/@(padfield2018)_Helicopter flight dynamics_ Including a treatment of tiltrotor aircraft.md",
+    "PaperSummaries/HelicopterSpecific/@(johnson2013)_Rotorcraft Aeromechanics.md",
+    "PDFs/zhou2023.pdf",
+    "PaperSummaries/HelicopterSpecific/@(zhou2023)_Aerodynamic and structural characteristics of helicopter rotor in circling flight.md",
+    "PaperSummaries/Subspace ID/@(yin2021a)_Subspace Identification of Linear Time-Periodic Systems With Periodic Inputs.md",
+    "PaperSummaries/FAST/@(bir2008)_Multi-Blade Coordinate Transformation and its Application to Wind Turbine Analysis.md",
+    "PaperSummaries/FAST/@(sprague2015)_FAST Modular Framework for Wind Turbine Simulation_ New Algorithms and Numerical Examples.md",
+    "PaperSummaries/FAST/@(jonkman2018)_Full-System Linearization for Floating Offshore Wind Turbines in OpenFAST_ Preprint.md",
+    "PaperSummaries/FAST/@(jonkman2016)_FAST modularization framework for wind turbine simulation_ Full-system linearization.md",
+    "PaperSummaries/FAST/@(jonkman2013)_The New Modularization Framework for the FAST Wind Turbine CAE Tool.md",
+    "PaperSummaries/FAST/@(jonkman2005)_FAST User's Guide.md",
+    "Notes/Rotor/Rotor Dynamics.md",
+    "Notes/Rotor/Bo 105.md",
+    "Notes/Periodic Systems/Transition Matrix (Fundamentals of Time Variant Systems).md",
+    "PDFs/chen2001.pdf",
+    "PDFs/astrom1971.pdf",
+    "Images/Pasted image 20240104141315.png",
+    "Images/Pasted image 20231211161847.png",
+    "Images/Pasted image 20231211160112.png",
+    "Images/Pasted image 20231211155945.png",
+    "Images/Pasted image 20231127114558.png",
+    "Images/Pasted image 20231114164238.png",
+    "Pasted image 20231114164200.png",
+    "Pasted image 20231114164002.png",
+    "Images/Pasted image 20231114164138.png",
+    "Pasted image 20231114164118.png"
+  ]
+}

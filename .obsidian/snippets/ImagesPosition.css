@@ -1,0 +1,15 @@
+img {
+        display: block !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+}
+
+ .markdown-source-view.mod-cm6 .cm-content > * {
+        margin: auto auto !important;
+}
+.markdown-source-view.mod-cm6 .internal-embed > img,
+.markdown-preview-view .internal-embed > img {
+    box-shadow: 0 28px 8px -26px rgba(0, 0, 0,);
+    border:1px solid #3d3c42;
+    margin: 0.25rem 0.25rem 0.75rem 0.25rem;
+}

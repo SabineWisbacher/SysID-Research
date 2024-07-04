@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "be005407fdaed28d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d88bb3ea559b31d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1106d93e845c038",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "16927391ab32a0cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e7e0c7d3cc46cf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6bc4e79902cd607",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c490b75cbae0efe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a9ca3474ec753c15",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cb9d438c84c7cac0",
+    "type": "split",
+    "children": [
+      {
+        "id": "030a0bf7a9b544d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be471a5a5063492f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e86de9b53c1031c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f0cf3337f549dc57",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "851c54b4a04d1adb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d6bc4e79902cd607",
+  "lastOpenFiles": [
+    "PDFs/shi2007.pdf",
+    "PDFs/wartmann.pdf",
+    "Images/Pasted image 20230426155926.png",
+    "PDFs/shin2005.pdf",
+    "PDFs/chiuso2007a.pdf",
+    "PaperSummaries/FAST/@(jonkman2016)_FAST modularization framework for wind turbine simulation_ Full-system linearization.md",
+    "PaperSummaries/@(bauer2001)_Order estimation for subspace methods.md",
+    "PDFs/dullerud1999a.pdf",
+    "PaperSummaries/@(goos2014)_Continuous time frequency domain LPV state space identification via periodic time-varying input-output modeling.md",
+    "PDFs/sandberg2005.pdf",
+    "PDFs/verhaegen2007.pdf",
+    "PDFs/jonkman2005.pdf",
+    "PaperSummaries/@(gilbert1960)_A method for the symbolic representation and analysis of linear periodic feedback systems.md",
+    "PaperSummaries/@(ljung1999)_System identification_ Theory for the user.md",
+    "PaperSummaries/Subspace ID/@(katayama2005)_Subspace methods for system identification.md",
+    "PaperSummaries/@(meyer1975)_A unified analysis of multirate and periodically time-varying digital filters.md",
+    "PaperSummaries/Subspace ID/@(mevel2014)_Lptv Subspace Analysis of Wind Turbines Data.md",
+    "PaperSummaries/@(wereley1990a)_Analysis and control of linear periodically time varying systems.md",
+    "PDFs/chiuso2010.pdf",
+    "PaperSummaries/@(uyanik2016)_Identification of a vertical hopping robot model via harmonic transfer functions.md",
+    "PDFs/mckelvey2002.pdf",
+    "PDFs/sprague2015.pdf",
+    "PaperSummaries/Subspace ID/@(mckelvey1996)_Subspace-based identification of infinite-dimensional multivariable systems from frequency-response data.md",
+    "PaperSummaries/@(sandberg2005)_Frequency-domain analysis of linear time-periodic systems.md",
+    "PaperSummaries/@(lee1963)_On the theory of linear dynamic system with periodic parameters.md",
+    "Images/Pasted image 20230221141925.png",
+    "PaperSummaries/@(markovsky2014)_Realization and identification of autonomous linear periodically time-varying systems.md",
+    "Notes/Control Basics/Representations/Representation of LTP Systems.md",
+    "Images/Pasted image 20230328125602.png",
+    "Images/Pasted image 20230629141752.png",
+    "ARCTIS Templates/Equation.md",
+    "PaperSummaries/HelicopterSpecific/@(padfield2018)_Helicopter flight dynamics_ Including a treatment of tiltrotor aircraft.md",
+    "PaperSummaries/Subspace ID/Predictor Based/@(bittanti1997)_Identification of Linear Models for a Hovering Helicopter Rotor.md",
+    "PaperSummaries/@(bittanti2000)_Invariant representations of discrete-time periodic systems.md",
+    "PaperSummaries/@(favoreel1999)_Comparative study between three subspace identification algorithms.md",
+    "PaperSummaries/@(shin2005)_System Identification Technique for Active Helicopter Rotors.md",
+    "PaperSummaries/@(miller2004)_Probability and random processes_ With applications to signal processing and communications.md",
+    "Images/Pasted image 20230222105830.png",
+    "Images/Pasted image 20230322101733.png",
+    "Images/Pasted image 20230307184404.png",
+    "PaperSummaries/Subspace ID/@(yin2021a)_Subspace Identification of Linear Time-Periodic Systems With Periodic Inputs.md",
+    "Images/DeltaMatGet.png",
+    "Notes/Control Basics/Control Schemes.md",
+    "Notes/Periodic Systems/Transition Matrix (Fundamentals of Time Variant Systems).md",
+    "Images/Pasted image 20230629105731.png",
+    "Images/Pasted image 20230322132858.png"
+  ]
+}

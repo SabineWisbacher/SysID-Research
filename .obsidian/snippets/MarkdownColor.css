@@ -1,0 +1,23 @@
+/*span.cm-highlight{
+	/*#fc438473 #a06fca78
+	background-color: #273650e8;
+	color: var(--text-normal);
+}*/
+
+.cm-s-obsidian span.cm-formatting-highlight, .cm-s-obsidian span.cm-highlight {
+	background-color: #273650e8;
+	color: var(--text-normal);
+}
+
+
+/* Highlight PREVIEW */
+
+.markdown-preview-view mark {
+
+}
+
+.markdown-rendered mark {
+	background-color: rgb(60 57 99 / 97%);
+  color: var(--text-normal);
+}
+

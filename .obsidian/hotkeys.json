@@ -1,0 +1,23 @@
+{
+  "obsidian-zotero-desktop-connector:zdc-insert-notes": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "N"
+    }
+  ],
+  "file-explorer:new-file-in-new-pane": [],
+  "obsidian-advanced-slides:open-advanced-slides-preview": [],
+  "obsidian-advanced-slides:reload-advanced-slides-preview": [],
+  "templater-obsidian:ARCTIS Templates/Array.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "A"
+    }
+  ]
+}

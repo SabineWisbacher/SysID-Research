@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "43e39bc7d264b354",
+    "type": "split",
+    "children": [
+      {
+        "id": "127d50ff923b31a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7cb9564266e98fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Representation of Periodic Systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d6d4c7c9df8866a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ResearchStructure/@(bittanti2000)_Invariant representations of discrete-time periodic systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d41bbfb0b7eec10",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e1bab545dc03f36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15bceb9fe283c660",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e0bff16a5ea5fbf0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc15840f4b37fdd8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 495.5
+  },
+  "right": {
+    "id": "b3b4c1e9620c18f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "aead91255196e96d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4af0ee978d9bde0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Representation of Periodic Systems.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ffde19f13c7d3d6a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Representation of Periodic Systems.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "65c5d83b0cb35c7d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "db6e6e4e8c41343c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Representation of Periodic Systems.md"
+              }
+            }
+          },
+          {
+            "id": "92142e686afff7d8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "active": "a7cb9564266e98fa",
+  "lastOpenFiles": [
+    "Notes/System Identification.md",
+    "ARCTIS Templates/Note.md",
+    "Notes/Representation of Periodic Systems.md",
+    "ResearchStructure/@(bittanti2009a)_Periodic Systems.md",
+    "ResearchStructure/@(bittanti2000)_Invariant representations of discrete-time periodic systems.md",
+    "ResearchStructure/@(allen2009)_System Identification of Dynamic Systems With Cubic Nonlinearities Using Linear Time-Periodic Approximations.md",
+    "ResearchStructure/@(goos2014)_Continuous time frequency domain LPV state space identification via periodic time-varying input-output modeling.md",
+    "ResearchStructure/@(hench1995)_A technique for the identification of linear periodic state-space models.md",
+    "ResearchStructure/@(mckelvey1996)_Subspace-based identification of infinite-dimensional multivariable systems from frequency-response data.md",
+    "ResearchStructure/@(schoukens1994)_On the Advantages of Periodic Excitation in System Identification.md"
+  ]
+}

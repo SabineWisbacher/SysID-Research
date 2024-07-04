@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "43e39bc7d264b354",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1e52e644d1a6062",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a60b465f50016b9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PaperSummaries/Subspace ID/Predictor Based/@(deiler2023)_Retrospective and Recent Examples of Aircraft and Rotorcraft System Identification at DLR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d41bbfb0b7eec10",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e1bab545dc03f36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15bceb9fe283c660",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e0bff16a5ea5fbf0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc15840f4b37fdd8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "0314d0cf1d94284f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b3b4c1e9620c18f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "aead91255196e96d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4af0ee978d9bde0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PaperSummaries/Subspace ID/Predictor Based/@(deiler2023)_Retrospective and Recent Examples of Aircraft and Rotorcraft System Identification at DLR.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ffde19f13c7d3d6a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PaperSummaries/Subspace ID/Predictor Based/@(deiler2023)_Retrospective and Recent Examples of Aircraft and Rotorcraft System Identification at DLR.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "65c5d83b0cb35c7d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "db6e6e4e8c41343c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PaperSummaries/Subspace ID/Predictor Based/@(deiler2023)_Retrospective and Recent Examples of Aircraft and Rotorcraft System Identification at DLR.md"
+              }
+            }
+          },
+          {
+            "id": "92142e686afff7d8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "a60b465f50016b9d",
+  "lastOpenFiles": [
+    "PDFs/bauer2001.pdf",
+    "PaperSummaries/Subspace ID/Predictor Based/@(chiuso2007)_The role of vector autoregressive modeling in predictor-based subspace identification.md",
+    "PaperSummaries/Subspace ID/Predictor Based/@(deiler2023)_Retrospective and Recent Examples of Aircraft and Rotorcraft System Identification at DLR.md",
+    "PaperSummaries/Subspace ID/Predictor Based/@(wartmann)_Application of the Predictor-Based Subspace Identification Method to Rotorcraft System Identification.md",
+    "PaperSummaries/Subspace ID/Predictor Based/@(vanwingerden2008)_Subspace IDentification of MIMO LPV systems_ The PBSID approach.md",
+    "PaperSummaries/Subspace ID/Predictor Based/@(chiuso2010)_On the Asymptotic Properties of Closed-Loop CCA-Type Subspace Algorithms_ Equivalence Results and Role of the Future Horizon.md",
+    "PaperSummaries/Subspace ID/Predictor Based/@(chiuso2007a)_On the Relation Between CCA and Predictor-Based Subspace Identification.md",
+    "PaperSummaries/Subspace ID/Predictor Based/@(bergamasco)_CONTINUOUS-TIME PREDICTOR-BASED SUBSPACE IDENTIFICATION FOR HELICOPTER DYNAMICS.md",
+    "PaperSummaries/@(fujimori2005)_A Polytopic Modeling of Aircraft by Using System Identification.md",
+    "PDFs/fujimori2005.pdf",
+    "PaperSummaries/Subspace ID/Predictor Based",
+    "PDFs/chiuso2007.pdf",
+    "PDFs/chiuso2007a.pdf",
+    "PDFs/chiuso2010.pdf",
+    "PDFs/vanwingerden2008.pdf",
+    "PaperSummaries/@(goos2014)_Continuous time frequency domain LPV state space identification via periodic time-varying input-output modeling.md",
+    "PaperSummaries/@(lee1963)_On the theory of linear dynamic system with periodic parameters.md",
+    "PaperSummaries/@(markovsky2014)_Realization and identification of autonomous linear periodically time-varying systems.md",
+    "PaperSummaries/@(qin2006)_An overview of subspace identification.md",
+    "PaperSummaries/@(sandberg2005)_Frequency-domain analysis of linear time-periodic systems.md",
+    "Notes/SysID/Subspace Identification for LTP Systems.md",
+    "Notes/SysID/Matlab SysID Toolbox.md",
+    "PDFs/ljung1999.pdf",
+    "Notes/SysID/System Identification Methods.md",
+    "PDFs/johnson2013.pdf",
+    "PaperSummaries/Subspace ID/@(vanoverschee1996a)_Continuous-time frequency domain subspace system identification.md",
+    "PaperSummaries/@(verhaegen2007)_Filtering and System Identification_ A Least Squares Approach.md",
+    "PDFs/vanoverschee1996a.pdf",
+    "PaperSummaries/@(ljung1999)_System identification_ Theory for the user.md",
+    "PDFs/verhaegen2007.pdf",
+    "Notes/Math and Numeric Basics/Sylvester's Inequality and Equality.md",
+    "Notes/Math and Numeric Basics/Singular Value Decomposition (SVD).md",
+    "PaperSummaries/Subspace ID/@(verdult2002)_Nonlinear system identification_ A state-space-approach.md",
+    "Notes/Periodic Systems/Multi-Blade Coordinate Transformation.md",
+    "Notes/Math and Numeric Basics/FFT Computation.md",
+    "Images/Pasted image 20230505153732.png",
+    "Images/Pasted image 20230505154437.png",
+    "Images/Pasted image 20230505153124.png",
+    "Images/Pasted image 20230505154131.png",
+    "Images/Pasted image 20230505152808.png",
+    "Images/Pasted image 20230505152928.png",
+    "Images/Pasted image 20230505154132.png",
+    "Notes/johnson2013.pdf.md",
+    "Images/Pasted image 20230426160153.png",
+    "Images/Pasted image 20230426160122.png",
+    "Images/Pasted image 20230426160104.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "callouts",
+    "ImagesPosition",
+    "MarkdownColor",
+    "TagColorSpecification",
+    "MathFontSize"
+  ]
+}

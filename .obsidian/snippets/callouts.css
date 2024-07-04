@@ -1,0 +1,6 @@
+body{
+	--callout-question: var(--color-red-rgb);
+	--callout-summary: var(--color-purple-rgb);
+	--callout-info: var(--color-green-rgb);
+	--callout-default: var(--color-blue-rgb);
+}
